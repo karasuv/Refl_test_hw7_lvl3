@@ -27,7 +27,7 @@ public class Testing {
     public static void method5(){
         System.out.println("Метод с высоким приоритетом");
     }
-
+//
 //    @AfterSuite
 //    public static void shutdown1(){
 //        System.out.println("shutdown1");
